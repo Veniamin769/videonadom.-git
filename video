@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Установка видеонаблюдения</title>
+  <meta name="description" content="Бесплатная консультация и расчёт сметы. Установка видеонаблюдения под ключ — надёжно, быстро, с гарантией.">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-gray-200 font-sans">
+
+  <!-- Блок о компании -->
+  <section class="py-16 px-6 max-w-5xl mx-auto">
+    <h2 class="text-3xl font-semibold mb-6 text-center text-gray-200">О компании</h2>
+    <p class="text-gray-400 text-lg mb-4">Компания <strong class="text-blue-400">GLONASSGPS40</strong> более 10 лет устанавливает системы видеонаблюдения «под ключ» на любые объекты.</p>
+    <ul class="list-disc list-inside text-gray-400 mb-4">
+      <li>Частные дома</li>
+      <li>Офисы</li>
+      <li>Производства</li>
+      <li>Школы и детсады</li>
+      <li>Гостиницы, спортобъекты</li>
+    </ul>
+    <p class="text-gray-400">Работаем в радиусе 150 км от МКАД. Делаем качественно и с гарантией.</p>
+  </section>
+
+  <!-- Главный призыв -->
+  <section class="bg-gradient-to-br from-blue-800 via-gray-800 to-blue-900 text-white py-20 px-6 text-center shadow-xl">
+    <div class="max-w-3xl mx-auto">
+      <h1 class="text-4xl md:text-5xl font-bold mb-6 text-gray-100">
+        Бесплатная консультация и расчёт сметы за 1 день
+      </h1>
+      <p class="text-lg md:text-xl text-gray-300 mb-10">
+        Установка систем видеонаблюдения под ключ — надёжно, быстро, с гарантией
+      </p>
+
+      <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="tel:+79190353590" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-6 rounded-xl shadow-lg transition text-lg w-full sm:w-auto">
+          📞 Позвонить
+        </a>
+        <a href="https://wa.me/79190353590" target="_blank" class="bg-gray-600 hover:bg-gray-700 text-white font-semibold py-4 px-6 rounded-xl shadow-lg transition text-lg w-full sm:w-auto">
+          💬 Написать в WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Галерея объектов -->
+  <section class="py-16 px-6 bg-gray-800">
+    <h2 class="text-3xl font-semibold mb-6 text-center text-gray-200">Портфолио объектов</h2>
+    <p class="text-center text-gray-400 mb-6">Примеры изображений с установленных камер на различных объектах</p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+      <img src="https://via.placeholder.com/300x200" alt="Объект 1" class="rounded-xl shadow-lg">
+      <img src="https://via.placeholder.com/300x200" alt="Объект 2" class="rounded-xl shadow-lg">
+      <img src="https://via.placeholder.com/300x200" alt="Объект 3" class="rounded-xl shadow-lg">
+      <img src="https://via.placeholder.com/300x200" alt="Объект 4" class="rounded-xl shadow-lg">
+      <img src="https://via.placeholder.com/300x200" alt="Объект 5" class="rounded-xl shadow-lg">
+      <img src="https://via.placeholder.com/300x200" alt="Объект 6" class="rounded-xl shadow-lg">
+    </div>
+  </section>
+
+  <!-- Видео -->
+  <section class="py-16 px-6 max-w-5xl mx-auto">
+    <h2 class="text-3xl font-semibold mb-6 text-center text-gray-200">Видео о нашей работе</h2>
+    <div class="aspect-w-16 aspect-h-9 max-w-4xl mx-auto">
+      <iframe class="rounded-xl shadow-lg" src="https://www.youtube.com/embed/3ykaEWG_CUg?si=EZvEkrIwMFXIoCrq" title="Видео о работе" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </section>
+
+  <!-- Причины работать с нами -->
+  <section class="py-16 px-6 bg-gray-900">
+    <h2 class="text-3xl font-semibold mb-6 text-center text-gray-200">6 причин работать с нами</h2>
+    <ol class="list-decimal list-inside text-gray-400 max-w-3xl mx-auto space-y-2 text-lg">
+      <li>Расчёт сметы — 1 день</li>
+      <li>Монтаж — от 1 до 3 дней</li>
+      <li>Гарантия на работы — 3 месяца</li>
+      <li>Гарантия на оборудование — 1 год</li>
+      <li>Только качественное оборудование</li>
+      <li>Поддержка и инструкции после монтажа</li>
+    </ol>
+  </section>
+
+  <!-- Преимущества -->
+  <section class="py-16 px-6 max-w-5xl mx-auto">
+    <h2 class="text-3xl font-semibold mb-6 text-center text-gray-200">Почему выбирают нас</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+      <div class="bg-blue-700 text-white p-6 rounded-xl shadow-lg hover:scale-105 transition">📄 Работаем по договору</div>
+      <div class="bg-blue-600 text-white p-6 rounded-xl shadow-lg hover:scale-105 transition">✅ Гарантия до 5 лет</div>
+      <div class="bg-gray-600 text-white p-6 rounded-xl shadow-lg hover:scale-105 transition">🚗 Бесплатный выезд специалиста</div>
+    </div>
+  </section>
+
+  <!-- Форма заявки -->
+  <section id="form" class="py-16 px-6 bg-gray-900 max-w-xl mx-auto rounded-xl shadow-lg">
+    <h2 class="text-3xl font-semibold mb-6 text-center text-gray-200">Оставьте заявку</h2>
+    <form>
+      <input type="text" placeholder="Ваше имя" class="p-3 rounded bg-gray-800 border border-gray-700 text-white placeholder-gray-400 w-full mb-4" required>
+      <input type="tel" placeholder="Телефон" class="p-3 rounded bg-gray-800 border border-gray-700 text-white placeholder-gray-400 w-full mb-4" required>
+      <textarea placeholder="Комментарий" rows="3" class="p-3 rounded bg-gray-800 border border-gray-700 text-white placeholder-gray-400 w-full mb-4"></textarea>
+      <label class="flex items-center mb-4 text-gray-400 text-sm">
+        <input type="checkbox" required class="mr-2 rounded border-gray-600 bg-gray-700 text-blue-600 focus:ring-blue-500" />
+        Согласен(на) на обработку персональных данных и получение сообщений
+      </label>
+      <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white py-3 rounded font-bold transition w-full">Оставить заявку</button>
+    </form>
+  </section>
+
+  <!-- Контакты -->
+  <footer class="py-10 px-6 bg-gray-900 text-center border-t border-gray-700">
+    <p class="mb-2 text-gray-300">Контакты: Вениамин</p>
+    <p class="mb-2"><a href="tel:+79190353590" class="text-blue-400 hover:underline">8 919 035 35 90</a></p>
+    <p class="mb-2"><a href="tel:+89954415616" class="text-blue-400 hover:underline">8 995 441 56 16</a></p>
+    <p><a href="mailto:info@example.com" class="text-blue-400 hover:underline">info@example.com</a></p>
+    <p class="mt
